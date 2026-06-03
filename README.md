@@ -244,21 +244,14 @@ AI-Operations-Manager/
 ├── README.md
 │
 ├── docs/
-│   └── AI_Operations_Manager_Assignment.pdf
+│   └── AI_Operations_Manager.pdf
 │
 ├── screenshots/
-│   ├── architecture-diagram.png
-│   ├── make-workflow.png
-│   ├── whatsapp-conversation.png
-│   ├── lead-summary.png
-│   ├── proposal-draft.png
+│   ├── make_scenario.png
+│   ├── whatsapp_chat.png
+│   ├── data_store.png
 │   └── email-notification.png
-│
-├── diagrams/
-│   └── architecture-diagram.png
-│
-└── make-scenario/
-    └── scenario-export.json
+└──
 ```
 
 ---
