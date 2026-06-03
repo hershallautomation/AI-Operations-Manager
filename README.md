@@ -1,4 +1,5 @@
 # AI Operations Manager
+A Multi-Agent Business Workflow Automation System
 
 ## Overview
 
